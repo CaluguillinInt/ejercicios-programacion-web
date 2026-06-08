@@ -1,0 +1,8 @@
+{
+  "label": "Taller de Typescript",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Un pequeño taller de Typescript que se realizará con 2 equipos los cuales deberán competir por quién consigue más puntos."
+  }
+}
